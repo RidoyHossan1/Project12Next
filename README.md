@@ -9,5 +9,5 @@ Car Showcase
 
 
 
-[![Click Here to View](website.gif)](https://project12-next.vercel.app/)
+[![Click Here to View](website.gif)](https://project12-next.vercel.app/){:target="_blank"}
 
